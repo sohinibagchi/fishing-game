@@ -1,23 +1,4 @@
-/*I do not own any images. All code was written by me.
-Image Sources:
-1)Background: https://webgradients.com/
-2)Jane: https://www.hiclipart.com/free-transparent-background-png-clipart-dzohn
-3)Ocean surface: https://webstockreview.net/pict/getfirst
-4)Sky: https://www.istockphoto.com/photo/clear-blue-sky-background-and-empty-space-for-your-design-no-cloud-gm1078321604-288891517
-5)Blue fish: https://www.clipart.email/clipart/cute-fish-clipart-for-kids-6524.html
-6)Red fish: https://webstockreview.net/explore/fisherman-clipart-cute-cartoon/
-7)Seahorse: https://www.uclipart.com/fish-seahorse-fish-clipart-wezd0f/
-8)Starfish: https://i.pinimg.com/originals/51/04/0b/51040b41fb8baf55b0e267476073bb7f.png
-9)Cigarette: https://ya-webdesign.com/explore/png-cigarette/
-10)Can: https://www.pinterest.ch/pin/20758848252525242/
-11)Wrapper: https://www.clipartmax.com/max/m2i8G6d3G6G6m2Z5/
-12)Bag: https://www.iconfinder.com/icons/2323595/bag_cartoon_dump_ecology_garbage_plastic_trash_icon
-13)Straws: https://www.clipart.email/clipart/clipart-plastic-straw-cartoon-462778.html
-14)Cruise ship: https://www.needpix.com/photo/download/1270371/steamboat-ship-steamer-seafaring-sea-travel-boot-chimney-water
-15)Lose fish: https://www.deviantart.com/hong-hui-lin-shenmu/art/Crying-Fish-739262819
-16)Win fish: https://www.stickers-factory.com/stickers/animals/fishes-decals/aquarium/cartoon-happy-little-fish-sticker-decal-06485.html
-17)Authority icon: https://www.shareicon.net/people-policeman-security-guardian-police-authority-man-741775
-18)Medal of Honor: http://www.psywarrior.com/moh.html*/
+//I do not own any images. All code was written by me.
 
 var score = 0;
 var lives = 3;
