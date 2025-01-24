@@ -1,24 +1,32 @@
+# Fishing Game
+This is a user-interactive game with two stages, formatted for a web browser. The player must remove pollutants from the ocean while preventing disturbance to wildlife. In Stage 1, the player must have at least one life remaining and attain a score of 10. In Stage 2, the player faces an additional time constraint with the potential to earn a bonus.
+## Run Locally
 
-# README for Fishing
+Clone the project.
 
-This is the README file for the Fishing app. Here is some information
-about the other files in this folder.
+```bash
+  git clone https://github.com/sohinibagchi/fishing-game.git
+```
 
-The files in this folder contain everything needed to run the app:
+Go to the project directory.
 
-* `applab/applab.js` - This file contains the applab library, which has all the
-  javascript that applab uses to run the app.
+```bash
+  cd fishing-game
+```
 
-* `applab/applab.css` - This file contains some default CSS styling for the app.
+Check if Python is installed. If not, go to https://www.python.org/downloads/.
 
-* `index.html` - This is the html file that contains all the buttons, text inputs, and other controls for
-  the app. Go here to add additional controls to the app.
+```bash
+  python -V
+```
 
-* `style.css` - This file defines the custom styling for each control in the
-  app. Go here to change the colors, positions, dimensions, and other properties of the app's controls.
+Start the server.
 
-* `code.js` - This file has all the code written for the app. Go here to add
-  new behavior to the app.
+```bash
+  python -m http.server
+```
 
-* `assets` - This is a directory with all the asset files (pictures and sounds)
-  that were uploaded in applab.
+Open a browser to the local URL, usually http://localhost:8000, to start playing!
+## Author
+
+- [@sohinibagchi](https://github.com/sohinibagchi)
