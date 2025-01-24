@@ -1,4 +1,4 @@
-//I do not own any images. All code was written by me.
+//I do not own any images.
 
 var score = 0;
 var lives = 3;
