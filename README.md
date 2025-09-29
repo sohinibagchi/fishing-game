@@ -1,5 +1,5 @@
 # Fishing Game
-This is a user-interactive game with two stages, formatted for a web browser. The player must remove pollutants from the ocean while preventing disturbance to wildlife. In Stage 1, the player must have at least one life remaining and attain a score of 10. In Stage 2, the player faces an additional time constraint with the potential to earn a bonus.
+This is a user-interactive game with two stages, formatted for a web browser. The player removes pollutants from the ocean while keeping mindful of wildlife. In Stage 1, the player's objective is to have at least one life remaining and earn a score of 10. In Stage 2, the player faces an additional time constraint with the potential to earn a bonus.
 ## Run Locally
 
 Clone the project.
